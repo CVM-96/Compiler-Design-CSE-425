@@ -1,4 +1,4 @@
-# Implement a basic parser (any TOP-DOWN version) for the arithmetic grammar: 
+# Implement a basic parser (any TOP-DOWN version) for the arithmetic grammar : 
 ```
 E --> TE' 
 E' --> +TE' | epsilon
